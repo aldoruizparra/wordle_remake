@@ -2,7 +2,7 @@
 
 Submitted by: **Aldo Ruiz Parra**
 
-**Name of your app** is an app that is intended to make a replication of Worlde as an IOS application. [TODO] 
+**Wordle Remake* is an app that is intended to make a replication of Worlde as an IOS application. [TODO] 
 
 Time spent: **4** hours spent in total
 
@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Loom Link:
+Loom Link: https://www.loom.com/share/eaf1a3050ce94720921751e09e99220c?sid=bd48e27c-5c0a-47a7-b74d-20ea4e6e25a2
 
 ## Notes
 
